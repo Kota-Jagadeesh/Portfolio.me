@@ -16,7 +16,7 @@ const CustomHead = ({ title }: CustomHeadProps) => {
         name="keywords"
         content="Jagadeesh Kota, kota, Jagadeesh, web developer portfolio, Android developer portfolio, Jagadeesh Android Developer, Jagadeesh developer, mern stack, kota jagadeesh portfolio, vscode-portfolio"
       />
-      <meta property="og:title" content="Nitin Ranganath's Portfolio" />
+      <meta property="og:title" content="Kota Jagadeesh's Portfolio" />
       <meta
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
