@@ -19,7 +19,7 @@ const CustomHead = ({ title }: CustomHeadProps) => {
       <meta property="og:title" content="Kota Jagadeesh's Portfolio" />
       <meta
         property="og:description"
-        content="A full-stack developer building websites that you'd like to use."
+        content="A developer building websites & Applications that you'd like to use."
       />
       <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
       <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
@@ -31,5 +31,5 @@ const CustomHead = ({ title }: CustomHeadProps) => {
 export default CustomHead;
 
 CustomHead.defaultProps = {
-  title: 'Nitin Ranganath',
+  title: 'Jagadeesh Kota',
 };
