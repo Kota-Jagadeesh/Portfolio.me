@@ -89,7 +89,17 @@ export default function HomePage() {
           </div>
         </div>
 
-        <div className={styles.infoSection}>
+        <div className={styles.infoSection}>  
+          {/* New profile photo container */}
+          <div className={styles.profilePhotoContainer}>
+            <img 
+              src="/images/Hero.png" 
+              alt="Jagadeesh Kota Profile" 
+              className={styles.profilePhoto}
+            />
+            <div className={styles.photoGlow}></div>
+          </div>
+
           <h1 className={styles.developerName}>
             Jagadeesh <span className={styles.accentText}>Kota</span>
           </h1>
